@@ -13,6 +13,9 @@ This is a code repository for a personal development project based on a fine din
 - CSS animations
 - Device responsiveness
 
+The Figma desing can be found at:
+https://ui8.net/iqonicdesign/products/gericht-restaurant-website-ui-in-figma
+
 ## Getting Started
 
 ### Dependencies
@@ -23,7 +26,7 @@ This is a code repository for a personal development project based on a fine din
 
 ### Executing program
 
-* Simply run 'npm start' in terminal
+* Simply run the following command in the terminal:
 ```
-code blocks for commands
+npm start
 ```
